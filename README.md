@@ -1,2 +1,2 @@
 - Hi, I’m @jarrettandrulis
-- I'm currently a Security Consultant @ AWS ProServe
+- I'm currently a Senior Software Engineer @ LinkedIn Site Engineering
