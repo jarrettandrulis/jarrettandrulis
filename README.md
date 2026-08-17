@@ -1,2 +1,2 @@
 - Hi, I’m @jarrettandrulis
-- I'm currently a Senior Software Engineer @ LinkedIn Site Engineering
+- I'm currently a Software Engineer @ The Voleon Group
